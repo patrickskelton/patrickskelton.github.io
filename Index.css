@@ -1,0 +1,37 @@
+h1{
+    color:navy;
+}
+nav{
+     background-color:000f0ff;
+}
+nav li{
+    padding:0px,0px,0px,200px;
+    display:inline-block;
+    width:20%;
+    text-align:center
+   
+    
+}
+body{
+    padding-left: 200px
+    
+    background-color:#ffffff;
+}
+maincontent{
+    max-width:1024px;
+}
+.contactinfo{
+    font-size:20px;
+    
+    background-color:skyblue
+}
+
+.slist{
+    border-style: solid;
+  border-width: 5px;
+ display: inline-block;
+text-align:center;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
