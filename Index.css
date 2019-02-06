@@ -2,7 +2,7 @@ h1{
     color:navy;
 }
 nav{
-     background-color:beige;
+     background-color: ;
 }
 nav li{
     padding:0px,0px,0px,200px;
@@ -13,9 +13,8 @@ nav li{
     
 }
 body{
-    padding-left: 200px
-    
-   background-color: blue;
+
+   background-image: radial-gradient(circle, teal,white);
 }
 maincontent{
     max-width:1024px;
@@ -31,10 +30,20 @@ maincontent{
   border-width: 5px;
  display: inline-block;
 text-align:center;
-  width: 200px;
-  height: 100px;
+    height:200px;
+    width:200px;
+ 
   margin: 1em;
 }
 .leftcol{
     left:10%;
+}
+.astyle{
+    overflow="hidden"
+    display: inline-block;
+    margin:0;
+    
+}
+#profile{
+    border-radius: 50%;
 }
